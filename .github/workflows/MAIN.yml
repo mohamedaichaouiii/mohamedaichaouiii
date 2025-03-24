@@ -32,7 +32,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.PERSONAL_TOKEN }}  # ✅ use your PAT secret here
-          branch: master
+          branch: main
           force: true
 
       # Deploy to GitHub Pages from 'output' branch
