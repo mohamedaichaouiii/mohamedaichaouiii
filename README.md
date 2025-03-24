@@ -70,6 +70,6 @@ I'm a passionate full-stack developer with a focus on building scalable, maintai
 - 📄 [Download French CV](https://drive.google.com/file/d/14dWwAQ4zqyMGekeOUA7rP8VacRAhwRhM/view?usp=sharing)
 
 ---
-
+![Contribution GIF Dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 _Thanks for visiting! ⭐️ Feel free to explore my repositories and connect!_
