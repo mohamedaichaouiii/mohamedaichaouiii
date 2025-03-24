@@ -10,7 +10,7 @@ Passionate about crafting scalable and efficient web applications using modern J
 
 ---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVuNzc5YWY3eXNiMjU0M2N3aHoxa2ZuNXl0MmxrcGF2cGRwM2c5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rJsMvyk7AHHiW9qKLM/giphy.gif)" alt="Funny coding gif" />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVuNzc5YWY3eXNiMjU0M2N3aHoxa2ZuNXl0MmxrcGF2cGRwM2c5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rJsMvyk7AHHiW9qKLM/giphy.gif" alt="Funny coding gif" />
 
 ### 🛠️ Tech Stack
 
