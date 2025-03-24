@@ -4,7 +4,6 @@
 Passionate about crafting scalable and efficient web applications using modern Java technologies and Angular. I thrive on solving complex backend challenges while delivering seamless user experiences on the frontend.
 </p>
 
----
 
 
 
