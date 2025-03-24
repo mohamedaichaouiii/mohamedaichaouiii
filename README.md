@@ -70,9 +70,6 @@ I'm a passionate full-stack developer with a focus on building scalable, maintai
 - 📄 [Download French CV](https://drive.google.com/file/d/14dWwAQ4zqyMGekeOUA7rP8VacRAhwRhM/view?usp=sharing)
 
 ---
-### 🐍 GitHub Contribution Snake
-
-![snake gif](https://github.com/mohamedaichaouiii/mohamedaichaouiii/blob/output/github-contribution-grid-snake.svg)
 
 
 _Thanks for visiting! ⭐️ Feel free to explore my repositories and connect!_
