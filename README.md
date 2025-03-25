@@ -43,9 +43,9 @@ I'm a passionate full-stack developer with a focus on building scalable, maintai
 </div>
 
 #### 🔹 GitHub Highlights:
-- 🔥 500+ contributions in the last year
+- 🔥 100+ contributions in the last year
 - 📂 50+ repositories on various tech stacks
-- ⭐ 100+ stars across projects
+- ⭐ 10+ stars across projects
 - 🍴 20+ forks from open-source contributions
 - 🔧 Actively maintaining and improving personal and freelance projects
 
