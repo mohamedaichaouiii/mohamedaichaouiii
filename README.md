@@ -42,6 +42,13 @@ I'm a passionate full-stack developer with a focus on building scalable, maintai
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedaichaouiii&layout=compact&theme=dracula" height="150" alt="Top Languages" />
 </div>
 
+#### 🔹 GitHub Highlights:
+- 🔥 500+ contributions in the last year
+- 📂 50+ repositories on various tech stacks
+- ⭐ 100+ stars across projects
+- 🍴 20+ forks from open-source contributions
+- 🔧 Actively maintaining and improving personal and freelance projects
+
 ---
 
 ### 📫 Connect With Me
